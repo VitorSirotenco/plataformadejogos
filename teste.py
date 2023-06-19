@@ -1,4 +1,4 @@
 frase = "Olá, mundo!"
 
-for i in range(len(frase)):
-    print("O caractere na posição", i, "é", frase[i])
+serie = range(1,10)
+print(serie[5])
